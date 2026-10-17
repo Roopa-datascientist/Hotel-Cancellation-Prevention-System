@@ -24,6 +24,7 @@ Data → Analysis → Risk → Likely Driver → Action → Decision
 📊 Dashboard
 
 ![Hotel Cancellation Dashboard](Hotel%20Cancellation%20.png)
+
 The Power BI dashboard contains:
 - Total Bookings
 - Cancelled Bookings
